@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**chaingon/chaingon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h1>CHȺINGON | web3topia</h1>
+<h5><i>FUDless &nbsp; BADass &nbsp; </h5></i>
+<br />
+</div>  
+<h2><i><a href="https://links.chaingon.xyz/cv">C V</a></i></h2>
 
-Here are some ideas to get you started:
+  <h2><i>C O N T A C T S </i></h2>
+  e-mail: chaingon@skiff.com<br />
+  telegram: t.me/chaingon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
+</div>
+
+
+  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=chaingon&show_icons=true&theme=nightowl"/>
+<br />
+<br />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=chaingon&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+<br />
+<br />
+   
+  </div>
+</div>
